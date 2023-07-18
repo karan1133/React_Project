@@ -1,0 +1,28 @@
+.abg{
+    background: url(https://static.vitra.com/media-resized/eIhAne-9cVzJaCkW-G53_P1GnEmGJ8O8FqqzjHebzMQ/fill/1440/0/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzIyOTI2NDMvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC80MTQ3NzY5Mi5qcGc.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 150px;
+}
+.cdv{
+    background: url(https://lh3.googleusercontent.com/XwIRxo40IY_9CHg8j55xv_Vl7lzwNqHej1F3pgjz1tgjnOeaoFrT85i8b4tOMZ8cRWkSYbm14l83dMcsKS3GYL-5vXXKKmaUKNOIutVc);
+    height: 500px;
+    /* width: 100%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 45px;
+    /* text-align: center; */
+    padding-top: 150px;
+}
+.demo{
+    display: flex;
+    list-style-type: none;
+    margin-left: 2%;
+}
+.demo:hover{
+    color:salmon;
+    cursor: pointer;
+}

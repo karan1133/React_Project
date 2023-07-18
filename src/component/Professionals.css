@@ -1,0 +1,26 @@
+.abd{
+    background: url(https://static.vitra.com/media-resized/J671yRsNZB26SeiVmuGp8oW7Prsa-S830gl309hkaPc/fill/1440/0/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzcwNDgyNjMvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC83NzAxNTA2Mi5qcGc.jpg);
+    height: 800px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.abd:hover{
+    opacity: 0.7;
+}
+.abe{
+    background: url(https://static.vitra.com/media-resized/ou9qlc2mVhP7mT4vtpYJSU5fUUwF5ybLHNN23otwCI8/fill/1440/0/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzczODU2NjIvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC83NzQ3MTE0Ni5qcGc.jpg);
+    height: 446px;
+    width: 1116px;
+}
+.img2{
+    overflow: hidden;
+    width: 320px;
+    height: 220px;
+}
+.image2:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.pa:hover{
+    color: salmon;
+}

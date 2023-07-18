@@ -1,0 +1,13 @@
+.img1{
+    overflow: hidden;
+}
+.img-fluid:hover{
+    transform: scale(1.2);
+    transition: 2s;
+}
+.abc{
+    background: url(https://static.vitra.com/media-resized/VBVeV9jHvCiMwOJSNmzP2IVVDubfWUwEzkBI0cXpXPA/fill/1440/0/ce/0/aHR0cHM6Ly9zdGF0aWMudml0cmEuY29tL21lZGlhL2Fzc2V0LzUyNDMzMDUvc3RvcmFnZS92X2Z1bGxibGVlZF8xNDQweC82MDkzNjcyNi5qcGc.jpg);
+    width: 810px;
+    height: 1440px;
+    position: relative;
+}

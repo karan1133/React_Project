@@ -1,0 +1,13 @@
+.img4{
+    overflow: hidden;
+    /* width: 600px; */
+    /* height: 350px; */
+    /* object-fit: cover; */
+}
+.image4{
+    object-fit: cover;
+}
+.image4:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
